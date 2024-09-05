@@ -1,6 +1,6 @@
-# RockyBot: News Research Tool 📈
+# News Research Tool 📈
 
-RockyBot is a News Research Tool built using Streamlit and Hugging Face APIs. It allows users to input URLs of news articles and ask questions related to the content, retrieving answers and sources from the provided URLs. The app uses FAISS for efficient retrieval of document embeddings.
+ News Research Tool built using Streamlit and Hugging Face APIs. It allows users to input URLs of news articles and ask questions related to the content, retrieving answers and sources from the provided URLs. The app uses FAISS for efficient retrieval of document embeddings.
 
 ## Features
 - Input up to 3 news article URLs.
@@ -11,7 +11,7 @@ RockyBot is a News Research Tool built using Streamlit and Hugging Face APIs. It
 ## User Interface
 Below is a screenshot of the current UI:
 
-![RockyBot UI](image.png)
+![UI](image.png)
 
 ## Technologies Used
 - **Streamlit**: For creating a web interface.
